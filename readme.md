@@ -24,4 +24,4 @@ The Jigsaw Puzzle Effect plugin provides a unique puzzle effect for image proces
 
 ## Example
 
-![Example Image](images/example.png)
+![Example Image](examples/workflow.png)
