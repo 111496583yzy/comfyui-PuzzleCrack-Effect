@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-puzzlecrack-effect"
+description = "The Jigsaw Puzzle Effect plugin provides a unique puzzle effect for image processing. By dividing an image into multiple puzzle pieces and optionally adding missing pieces, users can easily create artistic puzzle effects."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["numpy", "Pillow", "torch"]
+
+[project.urls]
+Repository = "https://github.com/111496583yzy/comfyui-PuzzleCrack-Effect"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-PuzzleCrack-Effect"
+Icon = ""
