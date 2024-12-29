@@ -323,4 +323,4 @@ class RegionBoundaryEffect:
         result_np = np.array(result).astype(np.float32) / 255.0
         result_tensor = torch.from_numpy(result_np).unsqueeze(0)
         
-        return (result_tensor,)                                                                       
+        return (result_tensor,)
